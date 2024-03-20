@@ -1,0 +1,12 @@
+PrimaryColor: '#e5a50a'
+SecondaryColor: '#f1502f'
+HoverColor: '#5c3566'
+Authors:
+  - AlterMundi
+  - Grupo Tecnología Apropiada
+Affiliation: AlterMundi
+Title: LibrePollo
+License: CC-BY-SA-4.0
+PageBOMTitle: 'Materiales:'
+DefaultCategory: part
+AutoCompleteSubNav: true
